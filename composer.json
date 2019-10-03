@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/ppc_call_tracker",
+    "name": "openmage-module-fostering\/ppc_call_tracker",
     "type": "magento-module",
-    "license": "Apache",
+    "license": "Apache-2.0",
     "homepage": "",
     "description": "Pay Per Click (PPC) Call Tracker",
     "authors": [
